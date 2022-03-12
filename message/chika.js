@@ -3,7 +3,7 @@
 //Module
 const { 
     downloadContentFromMessage
- } = require("@adiwajshing/baileys-md");
+ } = require("@adiwajshing/baileys");
 const fs = require("fs");
 const PhoneNumber = require('awesome-phonenumber')
 const moment = require("moment-timezone");
